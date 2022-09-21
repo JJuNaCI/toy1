@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="style/style.css">
 <script src="http://code.jquery.com/jquery-3.5.1.min.js"></script>
-<!-- 왜 잔디가 안심길까 -->
+<!-- merge를 안했을 경우 -->
     <script>
         var x = 0;
         var y = 0;
