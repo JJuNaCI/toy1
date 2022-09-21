@@ -9,6 +9,7 @@
 
 <link rel="stylesheet" href="style/style.css">
 <script src="http://code.jquery.com/jquery-3.5.1.min.js"></script>
+<!-- 다시한번 -->
     <script>
         var x = 0;
         var y = 0;
