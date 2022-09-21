@@ -14,6 +14,7 @@
         var x = 0;
         var y = 0;
         var map_text = "";
+        var test = "";
 
         var map = new Array();
 
